@@ -16,12 +16,11 @@ The CITY table is described as follows:
 | DISTRICT    | VARCHAR2(20) |
 | POPULATION  | NUMBER       |
 +-------------+--------------+
-
- */
+*/
  
  -- For this query, you need to use the WHERE condition to filter the data based on two criteria:
  
- SELECT
+SELECT
     *
 FROM
     city
